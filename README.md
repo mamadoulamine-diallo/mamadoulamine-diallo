@@ -1,50 +1,82 @@
-
-
-# Hi there 👋, I'm Lamine Dxallo
-
-I'm currently pursuing a **Bachelor in IT** at **La Plateforme_** in Marseille, as part of my professional reconversion. Passionate about **Web Development**, **Artificial Intelligence**, and **Cloud Computing**, I love learning and working on innovative technologies.
-
-Feel free to connect with me or check out my work below!
+<h1 align="center">Hi there 👋, I'm Lamine Diallo</h1>
+<p align="center">
+  🎓 IT Student | 💻 Web Developer | ☁️ Cloud & AI Enthusiast  
+</p>
 
 ---
 
-### 🌐 Find me online:
-- 💼 **LinkedIn**: [M. Lamine Diallo](https://www.linkedin.com/in/m-lamine-diallo-b8885b29b/)
-- 📧 **Email**: [mamadou-lamine.diallo@laplateforme.io](mailto:mamadou-lamine.diallo@laplateforme.io)
-- 💻 **GitHub**: [mamadoulamine-diallo](https://github.com/mamadoulamine-diallo)
+### 👨‍💻 About Me
+
+I'm currently pursuing a **Bachelor's in IT** at **La Plateforme\_** in Marseille, as part of a professional reconversion journey. I'm passionate about building modern web applications, exploring the potential of **Artificial Intelligence**, and diving into **Cloud Computing** technologies.
+
+I believe in continuous learning and building impactful, scalable, and clean digital solutions.
 
 ---
 
-### 🚀 What I'm passionate about:
-- 🌟 Exploring **Web Development** technologies and frameworks.
-- 🤖 Learning and experimenting with **Artificial Intelligence**.
-- ☁️ Gaining knowledge in **Cloud Computing** and DevOps.
+### 🌍 Connect with Me
+
+- [💼 LinkedIn](https://www.linkedin.com/in/m-lamine-diallo-b8885b29b/)
+- [📧 Email](mailto:mamadou-lamine.diallo@laplateforme.io)
+- [💻 GitHub](https://github.com/mamadoulamine-diallo)
 
 ---
 
-### 🔧 My Skills:
-Here are some of the technologies I work with:
+### 🚀 What Drives Me
 
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+- 💡 Creating intuitive and responsive **Web Applications**
+- 🤖 Experimenting with **AI & Machine Learning** models
+- ☁️ Learning **Cloud Infrastructure**, **CI/CD**, and **DevOps**
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+**Frontend**  
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+**Backend**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+
+**Tools & DevOps**  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
-### 📈 GitHub Stats:
-![Lamine's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mamadoulamine-diallo&show_icons=true&theme=radical)
+### 📈 GitHub Stats
 
-### 🚀 Top Languages:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mamadoulamine-diallo&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mamadoulamine-diallo&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mamadoulamine-diallo&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
 ---
 
-### 💡 What's next for me?
-I'm currently working on improving my skills in **React** and **Node.js**, while learning more about **AI** and **Cloud Computing** technologies. Stay tuned for updates on my GitHub as I work on exciting projects!
+### 📚 Current Focus
 
-Feel free to reach out for collaborations or just to connect. 😊
+Right now, I'm deepening my expertise in:
+
+- ⚛️ **React** & **Node.js** for full-stack projects
+- ☁️ **Cloud platforms** (AWS, Azure) & DevOps tools
+- 🤖 Building small AI-powered apps with Python & APIs
+
+---
+
+### 🤝 Open to Collaborations
+
+I'm always open to working on interesting projects, especially in the fields of **web development**, **AI**, or **cloud-based platforms**. Let's build something amazing together!
+
+---
+
+<p align="center">
+  <em>“Code is like humor. When you have to explain it, it’s bad.”</em>  
+</p>
