@@ -1,9 +1,4 @@
-<p align="center">
-  <img src="fond-banniere-.avif" alt="Banner" width="100%" />
-</p>
-
 <h1 align="center">Hi there 👋, I'm Lamine Diallo</h1>
-
 <p align="center">
   🎓 IT Student | 💻 Web Developer | ☁️ Cloud & AI Enthusiast  
 </p>
