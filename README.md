@@ -7,11 +7,19 @@
 
 ### 👨‍💻 About Me
 
-I'm currently pursuing a **Bachelor's in IT** at **La Plateforme\_** in Marseille, as part of a professional reconversion journey. I'm passionate about building modern web applications, exploring the potential of **Artificial Intelligence**, and diving into **Cloud Computing** technologies.
+🎯 I’m a career switcher currently enrolled in a Bachelor’s degree in IT at La Plateforme\_ (Marseille), focused on becoming a well-rounded web developer.
 
-I believe in continuous learning and building impactful, scalable, and clean digital solutions.
+After more than 10 years working as a bartender, I decided to fully commit to tech — driven by curiosity, the desire to build useful digital tools, and the freedom that development offers.
 
----
+💻 I’m learning fullstack development (JavaScript, Node.js, React, PHP...) and I’m particularly interested in:
+
+- Building clean, scalable web applications
+- Understanding business needs and solving real problems
+- Exploring the potential of AI and cloud-based tools
+
+🚀 I’m currently looking for a 24-month apprenticeship starting in September 2025 — open to any challenge that helps me grow and contribute to meaningful projects.
+
+Let’s connect!
 
 ### 🌍 Connect with Me
 
