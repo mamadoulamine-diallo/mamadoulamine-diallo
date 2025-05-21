@@ -1,6 +1,5 @@
-<h1 align="center">Hi there 👋, I'm Lamine Diallo</h1>
 <p align="center">
-  🎓 IT Student | 💻 Web Developer | ☁️ Cloud & AI Enthusiast  
+  <img src="LAMINE DIALLO.png" alt="GitHub Banner" width="100%" />
 </p>
 
 ---
