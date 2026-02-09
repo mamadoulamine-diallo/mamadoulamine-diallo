@@ -4,9 +4,7 @@
 
 ---
 
-<h1 align="center">Hello, c'est Lamine</h1>
-<h2 align="center">Développeur Java junior / Back-end | En formation CDA</h2>
-
+<h1 align="center">Développeur Java junior / Back-end | En formation CDA</h1>
 
 ---
 
