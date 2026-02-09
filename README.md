@@ -25,7 +25,7 @@ Je recherche un **stage de 3 mois à partir de juillet 2026** dans une entrepris
 ## Projets principaux
 
 - **[Gestion commerciale type POS](https://github.com/mamadoulamine-diallo/projectOne)**  
-  Application back-end complète inspirée d’un système de point de vente pour le marché africain. Gestion des produits, clients, ventes et stocks. Développée avec Java, Spring Boot, MySQL, API REST, JUnit et Docker.
+  Application back-end complète inspirée d’un système de point de vente pour le marché africain. Gestion des produits, clients, ventes et stocks. Développée avec Java, Spring Boot, MySQL, API REST, JUnit et Docker.(Disponible prochainement)
 
 *Pour voir mes autres projets, vous pouvez consulter mon Repositories *
 
@@ -34,13 +34,13 @@ Je recherche un **stage de 3 mois à partir de juillet 2026** dans une entrepris
 ## Compétences techniques
 
 **Back-end :** Java, Spring Boot, API REST, JUnit, MySQL, Docker  
-**Front-end (bases) :** HTML, CSS, JavaScript, React  
-**Outils & DevOps :** Git, Linux, CI/CD  
+**Front-end :** HTML, CSS, JavaScript, React  
+**Outils & DevOps :** Git, IntelliJ, VS Code, CI/CD  
 
 ---
 
 ## Contact
 
 - [LinkedIn](https://www.linkedin.com/in/m-lamine-diallo-b8885b29b/)  
-- Email : mamadou-lamine.diallo@laplateforme.io  
+- Email : dlamine.k@gmail.com  
 
