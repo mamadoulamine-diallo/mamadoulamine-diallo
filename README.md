@@ -10,13 +10,15 @@
 
 ## À propos de moi
 
-Après plus de 10 ans dans l’hôtellerie-restauration, je me suis reconverti dans le développement web pour créer des solutions numériques utiles et adaptées à de vrais besoins.
+Après plus de 10 ans dans l’hôtellerie-restauration, je me suis reconverti dans le développement web il y a 3 ans pour créer des solutions numériques concrètes et utiles.  
 
-Actuellement en formation **Concepteur Développeur d’Applications (CDA)**, je développe mes compétences sur **Java / Spring Boot**, **API REST**, **tests unitaires (JUnit)** et **Docker**.  
+J’ai commencé en autodidacte, puis intégré une formation en distanciel avec l’AFPA, où j’ai découvert le potentiel du code (HTML, CSS, JavaScript). Ensuite, j’ai poursuivi mon apprentissage à LaPlateforme à Marseille pour un Bachelor I.T., où j’ai travaillé en équipe sur des projets explorant PHP et React.  
 
-Je suis motivé, curieux et particulièrement attentif à **la qualité des solutions et à l’expérience utilisateur**.
+Aujourd’hui, je continue mon parcours avec le **CDA**, en me concentrant sur **Java / Spring Boot**, **API REST**, **tests unitaires (JUnit)** et **Docker**.  
 
+Je suis motivé, curieux et particulièrement attentif à **la qualité des solutions et à l’expérience utilisateur**.  
 Je recherche un **stage de 3 mois à partir de juillet 2026** dans une entreprise développant des solutions concrètes et utiles.
+
 
 ---
 
