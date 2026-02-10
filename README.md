@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="LAMINE DIALLO (15).png" alt="GitHub Banner" width="100%" />
+  <img src="LAMINE DIALLO (16).png" alt="GitHub Banner" width="100%" />
 </p>
 
 ---
