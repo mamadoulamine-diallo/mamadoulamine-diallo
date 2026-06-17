@@ -24,7 +24,7 @@ Je recherche un **stage de 3 mois à partir de juillet 2026** dans une entrepris
 
 ## Projets principaux
 
-- **[Gestion commerciale type POS](https://github.com/mamadoulamine-diallo/projectOne)**  
+- **[Gestion commerciale type POS](https://github.com/mamadoulamine-diallo/pos_mvp)**  
   Application back-end complète inspirée d’un système de point de vente pour le marché africain. Gestion des produits, clients, ventes et stocks. Développée avec Java, Spring Boot, MySQL, API REST, JUnit et Docker.(Disponible prochainement)
 
 *Pour voir mes autres projets, vous pouvez consulter mon Repositories *
